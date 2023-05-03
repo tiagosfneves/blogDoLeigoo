@@ -6,7 +6,7 @@
 
 /* Cabeçalho */
 header {
-  background-color: #333;
+  background-color:red;
   color: #fff;
   display: flex;
   justify-content: space-between;
@@ -45,7 +45,7 @@ nav a {
 
 .news-item {
   background-color: #fff;
-  border: 1px solid #333;
+  border: 1px solid #b8b8b8;
   box-shadow: rgba(0, 0, 0, 0.34) 4px 6px 8px;
   margin: 1.5rem 0;
   padding: 1rem;
@@ -78,7 +78,7 @@ aside ul {
 
 footer {
   padding: 2rem;
-  background-color: #333;
+  background-color: red;
   text-align: center;
   color: #fff;
 }
