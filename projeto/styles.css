@@ -1,0 +1,154 @@
+/* Reset de configuração padrão do browser */
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Cabeçalho */
+header {
+  background-color: #D10609;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+
+}
+
+/* Config da logo no cabeçalho, barra de menu */
+header img {
+  height: 40px;
+  margin: 1px;
+  padding: 5px;
+  border: 3px solid #fff;
+  border-radius: 50rem;
+  box-shadow: rgba(0, 0, 0, 0.34) 4px 6px 8px;
+}
+
+/* Cabeçalho, itens da lista na barra de navegação */
+nav ul {
+  display: flex;
+  list-style: none; /* Isso tira as bolinhas da lista */
+  gap: 1rem; /* Espaçamento de 16px para qlq tela */
+
+}
+
+/* Cabeçalho, links da lista na barra de anuncios */
+nav a {
+  color: #fff;
+  text-decoration: none; /* tira o underline_azul do link */
+
+}
+
+
+/* Conteúdo Principal da página (section | Aside) */
+.news-container {
+  display: flex;
+  margin: 1rem 0;
+  gap: 5rem;
+  justify-content: center;
+
+}
+
+/* Config para o artigo bem vindo */
+.bem-vindo {
+  border-radius: 5px;
+/*   border: 1px solid #333;  resolvi tirar a cor da borda */ 
+  margin: 1.5rem 0;
+  box-shadow: rgba(0, 0, 0, 0.34) 4px 6px 8px;
+  padding: 1rem;
+  width: 600px;
+/*   display: flex;
+  flex-direction: column;   Esta é a config padrão dos artigos */
+  display: grid;
+  grid-auto-flow: column;
+  gap: 1rem;
+  align-items: center;
+  
+
+}
+
+.bem-vindo img {
+  height: 200px;
+  object-fit: cover;
+  border: 5px solid #fff;
+  border-radius: 50rem;
+  box-shadow: rgba(0, 0, 0, 0.34) 4px 6px 8px;
+
+}
+
+.bem-vindo div p {
+  padding-block: 10px;
+
+}
+
+/* Config dos demais conteúdos, artigos da página, conteúdo geral */
+.news-item {
+  border-radius: 5px;
+/*   border: 1px solid #333;  resolvi tirar a cor da borda */ 
+  margin: 1.5rem 0;
+  box-shadow: rgba(0, 0, 0, 0.34) 4px 6px 8px;
+  padding: 1rem;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+}
+
+.news-item img {
+  height: 200px;
+  object-fit: cover;
+
+}
+
+.news-item mark {
+  background-color: #c9c60389;
+  border-radius: 0 12px 0 15px;
+  padding: 0 5px 0 7px;
+
+}
+
+.news-item p {
+  text-align: justify;
+}
+
+.bem-vindo p {
+  text-align: justify;
+}
+
+/* Barra menu lateral */
+aside h3 {
+  margin-bottom: 1.5rem;
+
+}
+
+aside ul {
+  color: #D10609;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  list-style-position: inside;
+
+}
+
+aside a {
+  color: #000;
+}
+
+/* Rodapé */
+footer {
+/*   padding: 2rem;
+  background-color: #333;
+  text-align: center;
+  color: #fff;              Config anterior*/
+  background-color: #D10609;
+  color: #fff;
+/*   display: flex;
+  justify-content: space-between;
+  align-items: center; */
+  text-align: center;
+  padding: 2rem;  
+  
+}

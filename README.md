@@ -24,11 +24,10 @@
     <li>2.0.0 - Analise de conteúdo...</li>
 	- Exclusão de arquivos desnecessários para a atualização do projeto;
 	- Alteração na paleta de cores, visando atender paleta de cores do projeto atual;
-
-... Próxima fase ...
     <li>3.0.0 - Reformulação completa do projeto</li>
 	- Criação de identidade visual e paleta de cores;
 	- HTML, nova formatação e conteúdo;
 	- CSS, Estilização de cores, tamanhos e formatos;
     
-    
+... Próxima fase ...
+     <li>4.0.0 - Em estudo...    
