@@ -14,7 +14,7 @@
 
 <h2>Créditos</h2>
 <ul>
-    <li><a href="https://github.com/matheusbattisti">Matheus Battisti</a> - autor original do projeto</li>
+    <li><a href="https://github.com/matheusbattisti">Matheus Battisti</a> - autor do projeto original</li>
     <li><a href="https://github.com/tiagosfneves">Tiago S F Neves</a> - autor do BlogDoLeigOo com base nos estudos deste fork</li>
 </ul>
 ```
