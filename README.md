@@ -4,6 +4,9 @@
     <img src="https://img.shields.io/github/repo-size/tiagosfneves/blogDoLeigoo_Fork_MB?style=flat-square" alt="GitHub repo size" />
     <img src="https://img.shields.io/github/contributors/tiagosfneves/blogDoLeigoo_Fork_MB?style=flat-square" alt="GitHub contributors" />
 
+<h1 align="center">Layout</h1>
+<img src="https://raw.githubusercontent.com/tiagosfneves/blogDoLeigoo/main/imgMeuProjetoFinal/meuTema.jpg" alt="Imagem da página home do Blog" />
+
 <h1 align="center">Detalhes</h1>
 
 <p align="center">Neste repositório, eu apliiquei as linguagens HTML e CSS com base em um fiz um esboço com as ideias para toda reformulação do projeto, depois disso, implementei os seguintes conteúdos:</p>
